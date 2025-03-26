@@ -1,0 +1,6 @@
+GET test.txt
+DELETE test.txt
+QUIT
+
+GET test.txt
+DELETE test.txt
